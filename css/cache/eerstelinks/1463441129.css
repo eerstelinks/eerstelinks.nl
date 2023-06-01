@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css?family=Molengo%7CPT+Sans");
+
+    .sexy h1,
+    .sexy h2,
+    .sexy h3,
+    .sexy h4,
+    .sexy h5,
+    .sexy h6,
+    .album-title,
+    .fancybox-inner {
+        font-family: 'Molengo';
+    }
+
+    .sexy h1 span.header,
+    .sexy h2 span.header,
+    .sexy h3 span.header,
+    .sexy h4 span.header,
+    .sexy h5 span.header,
+    .sexy h6 span.header,
+    .album-title span.header,
+    .fancybox-inner span.header {
+        font-size: 125%;
+    }
+.sexy li.editable, .fancybox-inner {
+        font-family: 'PT Sans';
+        font-size: 130%;
+        line-height: 181%;
+    }
+
+.sexy#sexy_126 {
+    background-image: url(../../../image/1000/1000/uploads/images/nieuwesite_20130617152633.jpg);
+    color: #333333;
+}
+
+    .sexy#sexy_126 .glasses {
+        background-color: rgba(250, 192, 143, 0.57);
+    }
+
+        html.ie6 .sexy#sexy_126 .glasses,
+        html.ie7 .sexy#sexy_126 .glasses,
+        html.ie8 .sexy#sexy_126 .glasses {
+            background-color: #fac08f;
+        }
+
+    .sexy#sexy_126 .row.inner {
+        background-color: #ffffff;
+    }
+
+
+.sexy#sexy_127 {
+    background-image: url(../../../image/1000/1000/uploads/images/nieuwesite_20130617153815.jpg);
+    color: #333333;
+}
+
+    .sexy#sexy_127 .glasses {
+        background-color: rgba(195, 214, 155, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_127 .glasses,
+        html.ie7 .sexy#sexy_127 .glasses,
+        html.ie8 .sexy#sexy_127 .glasses {
+            background-color: #c3d69b;
+        }
+
+    .sexy#sexy_127 .row.inner {
+        background-color: #ffffff;
+    }
+
+
+.sexy#sexy_128 {
+    background-image: url(../../../image/1000/1000/uploads/images/nieuwesite_20130617151941.jpg);
+    color: #333333;
+}
+
+    .sexy#sexy_128 .glasses {
+        background-color: rgba(250, 192, 143, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_128 .glasses,
+        html.ie7 .sexy#sexy_128 .glasses,
+        html.ie8 .sexy#sexy_128 .glasses {
+            background-color: #fac08f;
+        }
+
+    .sexy#sexy_128 .row.inner {
+        background-color: #ffffff;
+    }
+
+
+.sexy#sexy_262 {
+    background-image: url(../../../image/1000/1000/uploads/images/nieuwesite_20130617151757.jpg);
+    color: #333333;
+}
+
+    .sexy#sexy_262 .glasses {
+        background-color: rgba(191, 191, 191, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_262 .glasses,
+        html.ie7 .sexy#sexy_262 .glasses,
+        html.ie8 .sexy#sexy_262 .glasses {
+            background-color: #bfbfbf;
+        }
+
+    .sexy#sexy_262 .row.inner {
+        background-color: #ffffff;
+    }
+
+
+.sexy#sexy_129 {
+    background-image: url(../../../image/1000/1000/uploads/images/nieuwesite_20130617154318.jpg);
+    color: #333333;
+}
+
+    .sexy#sexy_129 .glasses {
+        background-color: rgba(149, 55, 52, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_129 .glasses,
+        html.ie7 .sexy#sexy_129 .glasses,
+        html.ie8 .sexy#sexy_129 .glasses {
+            background-color: #953734;
+        }
+
+    .sexy#sexy_129 .row.inner {
+        background-color: #ffffff;
+    }
+
+
+.sexy#sexy_130 {
+    background-image: url(../../../image/1000/1000/uploads/images/nieuwesite_20130610161036.jpg);
+    color: #333333;
+}
+
+    .sexy#sexy_130 .glasses {
+        background-color: rgba(242, 242, 242, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_130 .glasses,
+        html.ie7 .sexy#sexy_130 .glasses,
+        html.ie8 .sexy#sexy_130 .glasses {
+            background-color: #f2f2f2;
+        }
+
+    .sexy#sexy_130 .row.inner {
+        background-color: #ffffff;
+    }

@@ -1,0 +1,55 @@
+a {
+  color: #ff6600;
+}
+a:hover {
+  color: #ff6600;
+  text-decoration: none;
+}
+div#sexy_305 li h3 a {
+  color: black;
+}
+div.sexy#sexy_126 ul.row.inner {
+  background-image: url('../../img/logo/eigensite/logo-orange-cutout-70.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 250px 250px;
+}
+div.sexy#sexy_130 ul.row.inner {
+  background-color: transparent;
+  background-image: none;
+}
+div.sexy#sexy_128 div.pricing {
+  text-align: center;
+  display: block;
+  margin-top: 20px;
+}
+div.sexy ul.row.inner {
+  background-image: url('../../img/logo/eigensite/logo-orange-cutout-50.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 150px 150px;
+}
+h2.create-slogan {
+  text-align: center;
+}
+.spin-large {
+  height: 200px;
+}
+ul.app-functions {
+  margin-bottom: 20px;
+}
+ul.app-functions li {
+  line-height: 30px;
+}
+div.download-icons {
+  text-align: center;
+}
+div.download-icons img {
+  width: 50px;
+}
+.extra-space {
+  margin-top: 130px;
+}
+.margin-top-25 {
+  margin-top: 25px;
+}

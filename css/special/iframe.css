@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Molengo%7CPT+Sans);
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Molengo';
+  font-size: 125%;
+}
+html,
+body,
+label,
+input,
+button,
+ul li,
+select,
+textarea,
+.table th,
+.table td {
+  font-family: 'PT Sans';
+  font-size: 18px;
+  line-height: 28px;
+}
